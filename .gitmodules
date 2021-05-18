@@ -1,0 +1,3 @@
+[submodule "vrp/solvers/or-tools"]
+	path = vrp/solvers/or-tools
+	url = https://github.com/mobius-scheduler/or-tools.git
