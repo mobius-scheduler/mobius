@@ -50,6 +50,8 @@ github.com/mobius-scheduler/apps v0.0.0-20210517210242-1d65a5eae971 h1:lBLhjilZ+
 github.com/mobius-scheduler/apps v0.0.0-20210517210242-1d65a5eae971/go.mod h1:dePe28BD2144FqgvnRKiCcmP0gX6ZrTbh+rA16cf9r0=
 github.com/mobius-scheduler/apps v0.0.0-20210517215203-3876b5d208c3 h1:Nr2uI8+GAc0dhot1g+JcLpb4/2raLVVPegSU4Cm7nrw=
 github.com/mobius-scheduler/apps v0.0.0-20210517215203-3876b5d208c3/go.mod h1:dePe28BD2144FqgvnRKiCcmP0gX6ZrTbh+rA16cf9r0=
+github.com/mobius-scheduler/apps v0.0.0-20210518154439-b0cd8360cc3a h1:JNvsJqdLP14roUdtPfSNJl4uNWNrA+M+M9hLUbJsDPU=
+github.com/mobius-scheduler/apps v0.0.0-20210518154439-b0cd8360cc3a/go.mod h1:dePe28BD2144FqgvnRKiCcmP0gX6ZrTbh+rA16cf9r0=
 github.com/mobius-scheduler/mobius v0.0.0-20210516064634-a3d2b969183f/go.mod h1:S9qyFAMYCBmsqbje5rgWmUeeIgOxY00BntHbEJoYJNA=
 github.com/mobius-scheduler/mobius v0.0.0-20210516210249-29d4f463c10a/go.mod h1:hssfJu6p1eqX8OeVCgo5GjQcoETxG0fo7lRMQB7izi0=
 github.com/phpdave11/gofpdf v1.4.2/go.mod h1:zpO6xFn9yxo3YLyMvW8HcKWVdbNqgIfOOp2dXMnm1mY=
