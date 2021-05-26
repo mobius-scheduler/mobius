@@ -2,7 +2,7 @@
 
 Mobius is a scheduler for shared mobility platforms. It allocates tasks from different customers to vehicles, for applications such as food and package delivery, ridesharing, and mobile sensing. Mobius uses guided optimization to achieve both _high throughput_ and _fairness_ across customers. Mobius supports spatiotemporally diverse and dynamic customer demands, and provides a principled method to navigate inherent tradeoffs between fairness and throughput caused by shared mobility. 
 
-This repository implements the core Mobius scheduling system. To see several mobility platform applications we implemented atop Mobius (or to implement your own), check out [this repository](https://github.com/mobius-scheduler/apps). For more details on Mobius's scheduling algorithm, please read our [paper](https://web.mit.edu/arjunvb/pubs/mobius-mobisys21-paper.pdf).
+This repository implements the core Mobius scheduling system. To see several mobility platform applications we implemented atop Mobius (or to implement your own), check out [this repository](https://github.com/mobius-scheduler/apps). For more details on Mobius's scheduling algorithm, please read our [paper](https://arxiv.org/pdf/2105.11999.pdf).
 
 ## Dependencies
 - [Go](https://golang.org/doc/install)
