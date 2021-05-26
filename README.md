@@ -15,7 +15,7 @@ This repository implements the core Mobius scheduling system. To see several mob
     cd mobius/
     ```
 
-2. (Optional) Compile our OR-Tools solver for customized for the pickup/delivery problem:
+2. (Optional) Compile our OR-Tools solver customized for the pickup/delivery problem:
     ```
     cd vrp/solvers/or-tools
     make third_party
